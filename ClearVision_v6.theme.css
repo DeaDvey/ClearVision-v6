@@ -38,7 +38,7 @@
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
-  --background-shading: 20%; /* app background shading (0 for complete smoothness) [default: 100%] */
+  --background-shading: 50%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.2); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
   --background-image: url(https://user-images.githubusercontent.com/510119/187863340-120d6af5-20a7-4cb4-a75b-62a3b5db80d2.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
