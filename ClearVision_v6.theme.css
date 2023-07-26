@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Forig14.deviantart.net%2Fa193%2Ff%2F2015%2F167%2Fa%2F5%2Fassassin_s_creed_wallpaper__updated___full_hd__by_gianlucasorrentino-d8xk6eq.jpg&f=1&nofb=1&ipt=9cdadcb1e01d8c5d352bc5d354609d4b830031f7863c6332a6b977824bdaeb06&ipo=images); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://user-images.githubusercontent.com/510119/187863340-120d6af5-20a7-4cb4-a75b-62a3b5db80d2.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
