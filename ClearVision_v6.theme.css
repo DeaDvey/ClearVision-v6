@@ -16,18 +16,18 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #1fe69a; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: rgb(100,100,100); /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --main-color: #689d6a; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: rgb(146,131,116); /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
-  --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
-  --url-color: #d900ff; /*The color of url links [default: var(--main-color)]*/
+  --danger-color: #cc241d; /* danger accent color (hex, rgb or hsl) [default: #982929] */
+  --url-color: #458588; /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
-  --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
-  --idle-color: #faa61a; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
-  --dnd-color: #982929; /* dnd status color (hex, rgb or hsl) [default: #982929] */
-  --streaming-color: #593695; /* streaming status color (hex, rgb or hsl) [default: #593695] */
-  --offline-color: #808080; /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
+  --online-color: #98971a; /* online status color (hex, rgb or hsl) [default: #43b581] */
+  --idle-color: #d79921; /* idle status color (hex, rgb or hsl) [default: #faa61a] */
+  --dnd-color: #cc241d; /* dnd status color (hex, rgb or hsl) [default: #982929] */
+  --streaming-color: #b16286; /* streaming status color (hex, rgb or hsl) [default: #593695] */
+  --offline-color: #a89984 /* offline/invisible status color (hex, rgb or hsl) [default: #808080] */
 
   /* GENERAL */
   --main-font: 'JetBrains Mono', 'Trebuchet MS', 'FontAwesome', gg sans, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
