@@ -18,7 +18,7 @@
   /* ACCENT COLORS */
   --main-color: #689d6a; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: rgb(146,131,116); /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
-  --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
+  --success-color: #b8bb26; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #cc241d; /* danger accent color (hex, rgb or hsl) [default: #982929] */
   --url-color: #458588; /*The color of url links [default: var(--main-color)]*/
 
@@ -32,20 +32,21 @@
   /* GENERAL */
   --main-font: 'JetBrains Mono', 'Trebuchet MS', 'FontAwesome', gg sans, Helvetica Neue, Helvetica, Arial, sans-serif; /* main font for app (font must be installed) [default: gg sans, Helvetica Neue, Helvetica, Arial, sans-serif] */
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
-  --text-normal: rgb(255, 255, 255); /* color of default discord text */
-  --text-muted: rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
+  --text-normal: rgb(251, 241, 199); /* color of default discord text */
+  --text-muted: rgb(213, 196, 161); /* color of default discord muted text (e.g.text found in input fields before typing).*/
   --channels-width: 220px; /* channel list width (240px for Discord default) [default: 220px] */
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
   --background-shading: 0%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.2); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.NCDM8ff_HnOUG5mfWBhFtQHaDt%26pid%3DApi&f=1&ipt=c7613de1bbe102a75b6735b4c15383c1b4fd65ba462500d0f8f3e2db1203b514&ipo=images); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  /*--background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.NCDM8ff_HnOUG5mfWBhFtQHaDt%26pid%3DApi&f=1&ipt=c7613de1bbe102a75b6735b4c15383c1b4fd65ba462500d0f8f3e2db1203b514&ipo=images); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://deadvey.xyz/nixos-gruvbox.png);
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
-  --background-brightness: 50%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+  --background-brightness: 115%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
   --background-contrast: 100%; /* app background contrast [default: 100%] */
   --background-saturation: 100%; /* app background saturation [default: 100%] */
   --background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
@@ -54,13 +55,13 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnixos.org%2Flogo%2Fnixos-logo-only-hires.png&f=1&nofb=1&ipt=40d92284677069772c1b4a47ee19c64a264857ace25c667091c9ce24843b5f07&ipo=images); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnixos.org%2Flogo%2Fnixos-logo-only-hires.png&f=1&nofb=1&ipt=40d92284677069772c1b4a47ee19c64a264857ace25c667091c9ce24843b5f07&ipo=images); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg), https://deadvey.xyz/nixos-gruvbox.png for nixos wallpaper, though it looks bad with text]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
-  --channel-color: rgba(146, 131, 116, 0.3); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
+  --channel-color: rgba(168, 153, 132, 0.3); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
   --channel-text-selected: #fbf1c7; /* Selected channel text color, CV default is #fff */
   --muted-color: rgba(124, 111, 100, 0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
 
