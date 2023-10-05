@@ -41,7 +41,7 @@
   --background-shading: 0%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.2); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
   /*--background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.NCDM8ff_HnOUG5mfWBhFtQHaDt%26pid%3DApi&f=1&ipt=c7613de1bbe102a75b6735b4c15383c1b4fd65ba462500d0f8f3e2db1203b514&ipo=images); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
-  --background-image: url(https://raw.githubusercontent.com/DeaDvey/ClearVision-v6/master/nixos-gruvbox.png);
+  --background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2F0v9fftpkzyo81.png%3Fauto%3Dwebp%26s%3D7c02fcab33982758756fc8614a1374c5852b0aa4&f=1&nofb=1&ipt=cff77d1617fd1596b28b170bac8a76aee187537c484144c55d8b86eb5f72c50f&ipo=images);
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
