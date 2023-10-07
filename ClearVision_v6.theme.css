@@ -38,8 +38,8 @@
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
-  --background-shading: 10%; /* app background shading (0 for complete smoothness) [default: 100%] */
-  --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+  --background-shading: 20%; /* app background shading (0 for complete smoothness) [default: 100%] */
+  --background-overlay: rgba(0, 0, 0, 0.7); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
   /*--background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.NCDM8ff_HnOUG5mfWBhFtQHaDt%26pid%3DApi&f=1&ipt=c7613de1bbe102a75b6735b4c15383c1b4fd65ba462500d0f8f3e2db1203b514&ipo=images); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2F0v9fftpkzyo81.png%3Fauto%3Dwebp%26s%3D7c02fcab33982758756fc8614a1374c5852b0aa4&f=1&nofb=1&ipt=cff77d1617fd1596b28b170bac8a76aee187537c484144c55d8b86eb5f72c50f&ipo=images);
   --background-position: center; /* app background position [default: center] */
@@ -55,7 +55,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fnixos.org%2Flogo%2Fnixos-logo-only-hires.png&f=1&nofb=1&ipt=40d92284677069772c1b4a47ee19c64a264857ace25c667091c9ce24843b5f07&ipo=images); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg), https://deadvey.xyz/nixos-gruvbox.png for nixos wallpaper, though it looks bad with text]*/
+  --home-icon: url(https://1.bp.blogspot.com/-jWqBSG1Paeo/UVl-0vqGaZI/AAAAAAAAEJ8/uZFL-KBQmOI/s1600/Free+Download+Open+SUSE+Linux+OS.png); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg), https://deadvey.xyz/nixos-gruvbox.png for nixos wallpaper, though it looks bad with text]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
